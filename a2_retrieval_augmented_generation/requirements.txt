@@ -1,0 +1,9 @@
+langchain==1.0.0a10
+langchain-text-splitters
+langchain-community
+openai
+globus_sdk
+pymilvus[milvus_lite]
+
+# additional dependencies
+gensim
