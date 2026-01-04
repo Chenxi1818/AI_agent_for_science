@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=64.0", "setuptools_scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "academy-battleshipv2"
+version = "0.1.0"
+dependencies = [
+    "academy-py>=0.3.0",
+    "emoji",
+    "globus-compute-sdk"
+]
+requires-python = "==3.12"

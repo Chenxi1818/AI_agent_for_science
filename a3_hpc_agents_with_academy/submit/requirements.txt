@@ -1,0 +1,3 @@
+academy-py
+globus-compute-sdk
+emoji
